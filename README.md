@@ -28,7 +28,7 @@ O processo de carga (ETL) automatiza a extração de arquivos compactados e a cr
 **2. Análise de Performance de Receita**
 Utilização de consultas SQL avançadas, incluindo CTEs (Common Table Expressions) e Window Functions, para calcular métricas fundamentais:
 
-****Ticket Médio Mensal:** **Evolução do valor médio por pedido ao longo do tempo.
+**Ticket Médio Mensal:** **Evolução do valor médio por pedido ao longo do tempo.
 
 **Curva ABC (Pareto):** Classificação das categorias de produtos que representam 80% do faturamento da companhia.
 
