@@ -47,7 +47,7 @@ Desenvolvimento de gráficos otimizados para tomada de decisão, evitando polui�
 
 <img width="828" height="395" alt="image" src="https://github.com/user-attachments/assets/d2ccd553-854b-40e3-9dd4-cf3770bcbf67" />
 
-**Heatmap de Comportamento:** **Concentração de pedidos por dia da semana e horário.
+**Heatmap de Comportamento:** Concentração de pedidos por dia da semana e horário.
 
 <img width="1062" height="460" alt="image" src="https://github.com/user-attachments/assets/5f19bff2-5f5f-4c3d-8db8-d2db9c8244a8" />
 
