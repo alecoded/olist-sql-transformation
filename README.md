@@ -4,8 +4,8 @@ E-commerce Data Engineering & Analytics: Olist Project
 
 **Descrição**
 Construção de um ambiente de Data Warehouse utilizando SQL para estruturação de dados de E-commerce. O projeto foca em Modelagem de Dados, Joins complexos e integridade de pipelines de dados para transformar dados brutos em inteligência de negócio.
-**
-Objetivo**
+
+**Objetivo**
 Este projeto simula o fluxo de um Engenheiro de Dados ao transpor bases transacionais brutas (CSV) para um banco de dados relacional estruturado (SQLite), permitindo a extração de KPIs estratégicos para a performance de vendas e satisfação do cliente.
 
 **Tech Stack**
