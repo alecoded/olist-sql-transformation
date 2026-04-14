@@ -33,12 +33,14 @@ Utilização de consultas SQL avançadas, incluindo CTEs (Common Table Expressio
 **Curva ABC (Pareto):** Classificação das categorias de produtos que representam 80% do faturamento da companhia.
 
 <img width="1018" height="502" alt="image" src="https://github.com/user-attachments/assets/a6094cdd-1223-4091-9850-9460897b4bbd" />
+
 _Análise de Pareto demonstrando que as categorias de 'cama_mesa_banho', 'beleza_saude' e 'informatica_acessorios' são os principais drivers de receita, exigindo atenção prioritária em estoque e logística._
 
 
 **Volume por Estado:** Identificação de polos logísticos e concentração de demanda.
 
 <img width="879" height="395" alt="image" src="https://github.com/user-attachments/assets/6336afae-2962-4a89-9d81-5e0eb3e5268e" />
+
 _Distribuição geográfica de demanda com forte concentração na região Sudeste (SP, RJ, MG), validando a necessidade de estratégias de frete diferenciadas para esses polos._
 
 
@@ -48,17 +50,20 @@ Desenvolvimento de gráficos otimizados para tomada de decisão, evitando polui�
 **Distribuição de Pagamentos:** Comparação de magnitude entre métodos de pagamento (Cartão, Boleto, Voucher).**
 
 <img width="828" height="395" alt="image" src="https://github.com/user-attachments/assets/d2ccd553-854b-40e3-9dd4-cf3770bcbf67" />
+
 _Preferência de métodos de pagamento evidenciando a dominância absoluta do cartão de crédito, o que permite estratégias de parcelamento para aumentar o ticket médio._
 
 **Heatmap de Comportamento:** Concentração de pedidos por dia da semana e horário.
 
 <img width="1062" height="460" alt="image" src="https://github.com/user-attachments/assets/5f19bff2-5f5f-4c3d-8db8-d2db9c8244a8" />
+
 _Mapa de calor de volume transacional revelando picos de atividade em dias úteis durante o horário comercial, ideal para o agendamento de campanhas de marketing e suporte ao vivo._
 
 
 **Análise de Sentimento:** Distribuição de review scores para monitoramento da satisfação do cliente.
 
 <img width="634" height="422" alt="image" src="https://github.com/user-attachments/assets/35c54fa4-12f2-4f69-a062-163f2cfa56d0" />
+
 _Indicador de NPS (Satisfação do Cliente) com tendência positiva, onde a maioria das avaliações concentra-se no score máximo (5), refletindo uma boa experiência de compra._
 
 
